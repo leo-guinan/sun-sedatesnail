@@ -1,0 +1,382 @@
+{
+  "id": "sun-sedatesnail",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@sedatesnail Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_2e2351ca0fe2",
+    "display_name": "sedatesnail",
+    "user_id": "@sedatesnail",
+    "description": "Community Archive-derived proof-of-search sun for @sedatesnail.",
+    "document_count": 13685,
+    "word_count": 318077,
+    "active_days": 2910,
+    "emissions": [
+      "Good",
+      "Yeah",
+      "Don",
+      "Think",
+      "Know",
+      "Too"
+    ],
+    "generated_at": "2026-06-27T17:13:03.648036+00:00",
+    "color": "#f59e0b",
+    "mass": 12.67
+  },
+  "planets": [
+    {
+      "id": "planet_b5a509a5f509",
+      "name": "Good",
+      "summary": "Archive cluster around good: 10474 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "now",
+        "dfwaffles",
+        "right",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_829f1f4c49e2",
+          "title": "Good receipt from 2022-08-12",
+          "excerpt": "and if you're looking for the philosophy professors, backstreet boys, 4 year olds \"tell me why\" venn diagram: https://t.co/ZyXczJBUKN",
+          "source_document_id": "1558202360362459136",
+          "timestamp": "2022-08-12T21:22:47+00:00",
+          "url": "https://x.com/sedatesnail/status/1558202360362459136",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, dfwaffles, right."
+        },
+        {
+          "id": "art_3c8ef6c83654",
+          "title": "Good receipt from 2024-01-22",
+          "excerpt": "If someone else is cooking a feast and you want to ask \"how can I help\": a flowchart\n\n1. Do you actually want to help, or are you just feeling uncomfortable with someone else working? If the latter, get a drink, start a conversation, enjoy yourself. It's what your host wants.",
+          "source_document_id": "1749225594980585498",
+          "timestamp": "2024-01-22T00:20:55+00:00",
+          "url": "https://x.com/sedatesnail/status/1749225594980585498",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, dfwaffles, right."
+        },
+        {
+          "id": "art_72815cec0e86",
+          "title": "Good receipt from 2023-07-27",
+          "excerpt": "how did \"tit\", one of the most kiki words, come to mean one of the most bouba things?",
+          "source_document_id": "1684562619682947074",
+          "timestamp": "2023-07-27T13:53:20+00:00",
+          "url": "https://x.com/sedatesnail/status/1684562619682947074",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, dfwaffles, right."
+        },
+        {
+          "id": "art_1dec07877b73",
+          "title": "Good receipt from 2024-08-19",
+          "excerpt": "thank you to the hegelian e-girls for finally giving me a 4th quadrant here https://t.co/oANdtzVDA4",
+          "source_document_id": "1825621040241754311",
+          "timestamp": "2024-08-19T19:49:09+00:00",
+          "url": "https://x.com/sedatesnail/status/1825621040241754311",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, dfwaffles, right."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f170c86b09ae",
+      "proof_score": 1,
+      "mass": 36.905,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_bc701b7f264f",
+      "name": "Yeah",
+      "summary": "Archive cluster around yeah: 986 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yeah",
+        "too",
+        "think",
+        "don",
+        "know"
+      ],
+      "artifacts": [
+        {
+          "id": "art_bee41b1e3b2b",
+          "title": "Yeah receipt from 2024-06-29",
+          "excerpt": "getting one-shotted by a 6d mesoamerican demon but his message is \"you can enjoy being a dad\", can I get a hell yeah",
+          "source_document_id": "1807089244386517471",
+          "timestamp": "2024-06-29T16:30:24+00:00",
+          "url": "https://x.com/sedatesnail/status/1807089244386517471",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, think, don."
+        },
+        {
+          "id": "art_4d67c5f15371",
+          "title": "Yeah receipt from 2023-12-16",
+          "excerpt": "me having 90 muscles: haha fuck yeah! yes!!\nme getting hit with 10kg boxes: well this fucking sucks. what the fuck https://t.co/CacRsHJzQz",
+          "source_document_id": "1735894462906184068",
+          "timestamp": "2023-12-16T05:27:45+00:00",
+          "url": "https://x.com/sedatesnail/status/1735894462906184068",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, think, don."
+        },
+        {
+          "id": "art_b097b39d62ae",
+          "title": "Yeah receipt from 2024-07-06",
+          "excerpt": "@caesararum yeah man\n\nthis is one area where environmental forces and economic forces are going in the same direction, just let em do their thing",
+          "source_document_id": "1809627531391213993",
+          "timestamp": "2024-07-06T16:36:39+00:00",
+          "url": "https://x.com/sedatesnail/status/1809627531391213993",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, think, don."
+        },
+        {
+          "id": "art_c48528c870ee",
+          "title": "Yeah receipt from 2024-06-03",
+          "excerpt": "@MasterTimBlais yeah I live in this new neighborhood, one of those realtor-created acronym fictions like SoHo, but it's right between the Carson, Melrose, Inwood, Flatiron, Uffizi, and Ferris neighborhoods",
+          "source_document_id": "1797703946552885668",
+          "timestamp": "2024-06-03T18:56:35+00:00",
+          "url": "https://x.com/sedatesnail/status/1797703946552885668",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, think, don."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_aa39a80668e6",
+      "proof_score": 1,
+      "mass": 30.968,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_1c906f2c6511",
+      "name": "Don",
+      "summary": "Archive cluster around don: 810 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "think",
+        "want",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_06aa4213010f",
+          "title": "Don receipt from 2024-05-09",
+          "excerpt": "ooh I've discovered a minor scissor\n\nplease don't comment anymore if all you know is \"it *seems* like {keep-it-hot/reheat-it} has to be right!\" I've gotten that far, that doesn't help and ultimately muddies the water\n\n(no worries if you have done so already)",
+          "source_document_id": "1788595404788871632",
+          "timestamp": "2024-05-09T15:42:29+00:00",
+          "url": "https://x.com/sedatesnail/status/1788595404788871632",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_c07fac87687e",
+          "title": "Don receipt from 2024-03-11",
+          "excerpt": "master sommelier: ok young apprentice, what do you taste in this Ginger Lemon tea?\n\napprentice: uhh ginger and uhh (don't say lemon! don't say lemon!) uhh... citron https://t.co/K3nTkzomI5",
+          "source_document_id": "1767250442608574938",
+          "timestamp": "2024-03-11T18:05:14+00:00",
+          "url": "https://x.com/sedatesnail/status/1767250442608574938",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_a8ac62c1b8e5",
+          "title": "Don receipt from 2024-06-17",
+          "excerpt": "I think some ppl at vibecamp had Paris Syndrome (this year and last)\n\nsomething like: \"I'm a creep, I'm a weirdo, I don't belong in Normal Life, neither do these nerds, so I must belong at their nerdy camp\"\n\nalas, it is not the answer, it is just a camp",
+          "source_document_id": "1802550168505532594",
+          "timestamp": "2024-06-17T03:53:44+00:00",
+          "url": "https://x.com/sedatesnail/status/1802550168505532594",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_59c86d6db064",
+          "title": "Don receipt from 2024-05-29",
+          "excerpt": "@moultano ah, you've stumbled on zero hp lovecraft. you don't know who that is? you're, ... well, in this case, you're one of today's unlucky 10,000 :(",
+          "source_document_id": "1795879930477109729",
+          "timestamp": "2024-05-29T18:08:35+00:00",
+          "url": "https://x.com/sedatesnail/status/1795879930477109729",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f28516bde529",
+      "proof_score": 1,
+      "mass": 30.479,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_a679dcad0b06",
+      "name": "Think",
+      "summary": "Archive cluster around think: 564 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "too",
+        "right",
+        "know",
+        "something"
+      ],
+      "artifacts": [
+        {
+          "id": "art_cf79a5b59554",
+          "title": "Think receipt from 2023-09-15",
+          "excerpt": "@juulcob @TetraspaceWest I think you just have to include this image in your paper https://t.co/DeKr93CgCU",
+          "source_document_id": "1702688181072560331",
+          "timestamp": "2023-09-15T14:17:51+00:00",
+          "url": "https://x.com/sedatesnail/status/1702688181072560331",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, too, right, know."
+        },
+        {
+          "id": "art_09f7e29c0584",
+          "title": "Think receipt from 2024-04-16",
+          "excerpt": "I hesitate to share this because... is it self fulfilling? am I dragging y'all down?\n(I'm managing well now, and not depressed for the last few months, fwiw!)\n\nbut I guess, I want ppl to know the distribution. I think you'd get between 10-1000% for each of these numbers! 2/2",
+          "source_document_id": "1780318891220312074",
+          "timestamp": "2024-04-16T19:34:35+00:00",
+          "url": "https://x.com/sedatesnail/status/1780318891220312074",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, too, right, know."
+        },
+        {
+          "id": "art_200dc56eaa4f",
+          "title": "Think receipt from 2024-05-01",
+          "excerpt": "@prerationalist man I guess we gotta go for gravel because the other world sucks for everyone (money is useless now, economy vanishes)\n\nbut just imagining the world where everyone has infinite gravel. I think too many ppl would build towers to the stratosphere. it'd be mountains everywhere",
+          "source_document_id": "1785466079545860321",
+          "timestamp": "2024-05-01T00:27:40+00:00",
+          "url": "https://x.com/sedatesnail/status/1785466079545860321",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, too, right, know."
+        },
+        {
+          "id": "art_7f198de958eb",
+          "title": "Think receipt from 2021-02-06",
+          "excerpt": "@sirsfurther ooh I love optical illusions, got any more? here's one: if you think these lines are different lengths, your brain is bad and you are bad https://t.co/2BErQMfFPT",
+          "source_document_id": "1358141694894477312",
+          "timestamp": "2021-02-06T19:53:07+00:00",
+          "url": "https://x.com/sedatesnail/status/1358141694894477312",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, too, right, know."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5f133edbfe17",
+      "proof_score": 0.984,
+      "mass": 29.355,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_a3068a5c06fa",
+      "name": "Know",
+      "summary": "Archive cluster around know: 417 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "right",
+        "didn",
+        "now",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_64a302664ed8",
+          "title": "Know receipt from 2024-03-15",
+          "excerpt": "lawyer sends me \"document (1) (1).docx\"\n\nme, next call: got your docs, thanks! have you heard of version control? (3 1/2 hours later) and that's the basics of the reflog, of course there's more to it--\nher: you know I'm billing this call at $400/hour, right?\nme: worth it",
+          "source_document_id": "1768616922478718987",
+          "timestamp": "2024-03-15T12:35:08+00:00",
+          "url": "https://x.com/sedatesnail/status/1768616922478718987",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, right, didn, now."
+        },
+        {
+          "id": "art_e9495dd474cf",
+          "title": "Know receipt from 2024-01-22",
+          "excerpt": "2. If you want to help, and there are dishes to be put away, and you know the kitchen, put them away.\n3. If not, but there are washed dishes to dry, dry them.\n4. If not, but there are dishes to wash, wash them.",
+          "source_document_id": "1749226701798658278",
+          "timestamp": "2024-01-22T00:25:19+00:00",
+          "url": "https://x.com/sedatesnail/status/1749226701798658278",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, right, didn, now."
+        },
+        {
+          "id": "art_cf5e9e5c2d9d",
+          "title": "Know receipt from 2024-06-06",
+          "excerpt": "is your gen-z teen getting into buddhism? know the telltale slang:\ngyatt: The Dalai Lama, Tenzin Gyatso\nghosting: being hungry\ncheugy: Chögyam Trungpa\nsus: Shunryu Suzuki\nwoke: achieved fourth path\nthicc: Thich Nhat Hanh\nyolo: \"you only live once\", an insult for non-buddhists",
+          "source_document_id": "1798757119979884895",
+          "timestamp": "2024-06-06T16:41:31+00:00",
+          "url": "https://x.com/sedatesnail/status/1798757119979884895",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, right, didn, now."
+        },
+        {
+          "id": "art_37bfbafb4029",
+          "title": "Know receipt from 2024-05-05",
+          "excerpt": "how should I make a quick static website with only a little interaction in 2024\n\n(I know react but want ~zero maintenance)",
+          "source_document_id": "1787214450866749813",
+          "timestamp": "2024-05-05T20:15:04+00:00",
+          "url": "https://x.com/sedatesnail/status/1787214450866749813",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, right, didn, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3e021db03f2b",
+      "proof_score": 0.954,
+      "mass": 28.21,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_97bb8593ddce",
+      "name": "Too",
+      "summary": "Archive cluster around too: 434 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "too",
+        "now",
+        "maybe",
+        "man",
+        "could"
+      ],
+      "artifacts": [
+        {
+          "id": "art_aa7598338e98",
+          "title": "Too receipt from 2024-05-09",
+          "excerpt": "Clarifying points for responses to this post:\n- let's say I use it \"a couple times a week\"\n- assume I only care about money (and kwh) - ofc my real decision will incorporate convenience too but let's keep it just on money for now\n- ambient temp is 70F, tub target temp is 104F",
+          "source_document_id": "1788577932304138361",
+          "timestamp": "2024-05-09T14:33:03+00:00",
+          "url": "https://x.com/sedatesnail/status/1788577932304138361",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, now, maybe, man."
+        },
+        {
+          "id": "art_6700e2a42790",
+          "title": "Too receipt from 2023-11-26",
+          "excerpt": "@prerationalist too late, I'm starting e/busybeaver, it's over for you e/↑↑↑ slowpokes",
+          "source_document_id": "1728775286995468489",
+          "timestamp": "2023-11-26T13:58:42+00:00",
+          "url": "https://x.com/sedatesnail/status/1728775286995468489",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, now, maybe, man."
+        },
+        {
+          "id": "art_4eb666f64010",
+          "title": "Too receipt from 2023-09-26",
+          "excerpt": "I am trying not to follow this saga but\n\nThis Old Organization That Thinks Of Ourselves Too Much, Circumstantially Given Legibility Often, On Twitter https://t.co/267JeczGmt",
+          "source_document_id": "1706781805779599436",
+          "timestamp": "2023-09-26T21:24:27+00:00",
+          "url": "https://x.com/sedatesnail/status/1706781805779599436",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, now, maybe, man."
+        },
+        {
+          "id": "art_533058bae4ae",
+          "title": "Too receipt from 2023-08-06",
+          "excerpt": "had neighbors party tonight. put handmade flyers on my whole street: \"come over Saturday 5-8pm.\" pizza, beer, soda, nothing fancy.\n\nIt was delightful: 15 ppl, young and old. neat folks. all wished someone had done this sooner.\n\ndo it in your neighborhood too!",
+          "source_document_id": "1688026979151298561",
+          "timestamp": "2023-08-06T03:19:28+00:00",
+          "url": "https://x.com/sedatesnail/status/1688026979151298561",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, now, maybe, man."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ee6a6c4a7797",
+      "proof_score": 0.958,
+      "mass": 28.136,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
